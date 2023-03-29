@@ -37,12 +37,13 @@ app.use(express.static(path.join(__dirname , "./client/build")));
 
 
 app.get("*" , function(req,res){
-  res.sendFile(path.join(__dirname , "./client/build/index.html")
+  res.sendFile(path.join(__dirname , "./client/build/index.html"));
 
-}
+
+});
 //listen server
 app.listen(PORT, () => {
-  console.log()
+  console.log(
     `Server Running in ${process.env.DEV_MODE} mode on port no ${PORT}`.bgCyan
       .white
   );

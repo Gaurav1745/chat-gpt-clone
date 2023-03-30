@@ -53,7 +53,7 @@ exports.chatbotController = async (req, res) => {
     const { text } = req.body;
     const { data } = await openai.createCompletion({
       model: "text-davinci-003",
-      prompt: `${text}`,
+      prompt: `what is${text}`,
 
 
       max_tokens: 300,

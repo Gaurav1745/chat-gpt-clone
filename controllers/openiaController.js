@@ -50,9 +50,10 @@ exports.paragraphController = async (req, res) => {
 };
 exports.chatbotController = async (req, res) => {
   try {
+    const { text } = req.body;
     const { data } = await openai.createCompletion({
       model: "text-davinci-003",
-      prompt,
+      prompt: {text},
 
       max_tokens: 300,
       temperature: 0.7,

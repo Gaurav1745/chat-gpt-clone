@@ -50,11 +50,10 @@ exports.paragraphController = async (req, res) => {
 };
 exports.chatbotController = async (req, res) => {
   try {
-    const { text } = req.body;
     const { data } = await openai.createCompletion({
-      model: "gpt-3.5-turbo",
-      prompt: [{role: "user", content: "Hello world"}],
-      
+      model: "text-davinci-003",
+      prompt,
+
       max_tokens: 300,
       temperature: 0.7,
     });
@@ -77,7 +76,7 @@ exports.jsconverterController = async (req, res) => {
       model: "text-davinci-002",
       prompt: `/* convert these instruction into javascript code \n${text}`,
       max_tokens: 400,
-      temperature: 0.25,
+      temperature: 0.2,
     });
     if (data) {
       if (data.choices[0].text) {

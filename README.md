@@ -1,2 +1,3 @@
-# MernStack-chatGPT-Clone
-complete mern stack chat gpt clone 
+# MernStack-chatGPT
+
+A open-AI chatbot based on chat GPT but with improved features.

@@ -12,7 +12,8 @@ Some features of the AI-chatbot are:
 
 ## Demo of the project :)
 
-https://saurabh-chatgpt.cyclic.app/
+
+
 
 <br>
 

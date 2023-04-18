@@ -1,16 +1,33 @@
-# MernStack-chatBOT
+# MernStack AI-chatbot (AUTOGPT)
 
-A open-AI chatbot based on chat GPT but with improved features.
+## A chatbot inspired by chatGPT , but with improved features.
+<br>
+Some features of the AI-chatbot are:
+<br>
+- Paragraph generator
+<br>
+- Chatgpt<br>
+- Sci-fi image generator <br>
+- javascript convertor <br>
 
+## Demo of the project :)
 
-![Screenshot (277)](https://user-images.githubusercontent.com/103983412/232656271-517c3260-7019-42d9-8c48-e09232eda113.png)
+https://saurabh-chatgpt.cyclic.app/
 
+<br>
 
-![Screenshot (275)](https://user-images.githubusercontent.com/103983412/232656295-32bacc57-220e-44ef-9080-674147526969.png)
+# Screenshot of how the web application looks
 
+![Screenshot (277)](https://user-images.githubusercontent.com/109866847/231044309-6ac59238-ad4f-494d-ac3d-a4aef8d1bbbd.png)
 
-![Screenshot (276)](https://user-images.githubusercontent.com/103983412/232656316-bc96d092-9ced-4fae-a95f-e84605453c1a.png)
+<br>
 
+![Screenshot (275)](https://user-images.githubusercontent.com/109866847/231044267-3d73764a-3c94-43e2-b8c9-73896ea01140.png)
 
+<br>
 
-![Screenshot (279)](https://user-images.githubusercontent.com/103983412/232656323-d72833de-8a47-440f-b25a-5109acaae925.png)
+![Screenshot (276)](https://user-images.githubusercontent.com/109866847/231044371-7bd41b73-724c-4918-a623-97e24578ddd8.png)
+
+<br>
+
+![Screenshot (279)](https://user-images.githubusercontent.com/109866847/231044382-5b6dce9f-3501-4d60-b8a9-f4163275bbb6.png)

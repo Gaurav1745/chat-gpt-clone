@@ -1,6 +1,6 @@
 # MernStack AI-chatbot
 
-## A chatbot inspired by chatGPT , but with improved features
+## A chatbot inspired by chatGPT , but with improved features.
 <br>
 Some features of the AI-chatbot are:
 <br>

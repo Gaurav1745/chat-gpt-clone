@@ -10,7 +10,7 @@ Some features of the AI-chatbot are:
 - Sci-fi image generator <br>
 - javascript convertor <br>
 
-## Demo of the project :)
+## Demo of the project :
 
 
 
